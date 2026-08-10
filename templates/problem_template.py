@@ -1,0 +1,1 @@
+﻿"""Template for LeetCode solutions.\n\nTODO: add problem statement, approach, complexity, and implementation.\n"""\n\n\nclass Solution:\n    def solve(self, *args, **kwargs):\n        raise NotImplementedError
